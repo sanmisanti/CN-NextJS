@@ -56,7 +56,7 @@ const CardList = () => {
         <Card
           title={"Consultoría de neogicos"}
           description={
-            "Our experienced consultants provide strategic guidance to help your business thrive."
+            "Nuestros consultores experimentados brindan orientación estratégica para ayudar a que tu negocio prospere."
           }
         >
           <BriefcaseIcon className="h-8 w-8 text-[#0077b6]" />
@@ -64,7 +64,7 @@ const CardList = () => {
         <Card
           title={"Servicios contables"}
           description={
-            "Our experienced consultants provide strategic guidance to help your business thrive.Accurate financial reporting and tax planning to optimize your business."
+            "Reportes financieros precisos y planificación tributaria para optimizar tu negocio."
           }
         >
           <CalculatorIcon className="h-8 w-8 text-[#0077b6]" />
@@ -72,7 +72,7 @@ const CardList = () => {
         <Card
           title={"Desarrollo de TI"}
           description={
-            "Reliable and secure IT solutions to keep your business running smoothly."
+            "Soluciones de tecnología de la información confiables y seguras para mantener tu negocio funcionando sin contratiempos."
           }
         >
           <CalculatorIcon className="h-8 w-8 text-[#0077b6]" />

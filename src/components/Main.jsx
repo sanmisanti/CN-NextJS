@@ -55,12 +55,12 @@ export default function Component() {
           <div className="grid gap-8 lg:grid-cols-2 lg:gap-12">
             <div className="space-y-4">
               <h2 className="text-3xl font-bold text-[#0077b6] sm:text-4xl">
-                The Benefits of Our Services
+                Los Beneficios de Nuestros Servicios
               </h2>
               <p className="text-[#4a4a4a] md:text-xl">
-                Our comprehensive business, accounting, and IT consulting
-                services provide a range of benefits to help your company
-                thrive.
+                Nuestros servicios integrales de consultoría empresarial,
+                contable y de tecnología de la información ofrecen una variedad
+                de beneficios para ayudar a que tu empresa prospere.
               </p>
             </div>
             <div className="grid gap-6">
@@ -68,11 +68,12 @@ export default function Component() {
                 <CircleCheckIcon className="h-8 w-8 text-[#0077b6]" />
                 <div>
                   <h3 className="text-xl font-bold text-[#0077b6]">
-                    Improved Efficiency
+                    Mejora de la Eficiencia
                   </h3>
                   <p className="text-[#4a4a4a]">
-                    Our expert consultants help streamline your operations and
-                    optimize your workflows for maximum productivity.
+                    Nuestros consultores expertos ayudan a optimizar tus
+                    operaciones y flujo de trabajo para una productividad
+                    máxima.
                   </p>
                 </div>
               </div>
@@ -80,11 +81,12 @@ export default function Component() {
                 <CurrencyIcon className="h-8 w-8 text-[#0077b6]" />
                 <div>
                   <h3 className="text-xl font-bold text-[#0077b6]">
-                    Cost Savings
+                    Ahorro de Costos
                   </h3>
                   <p className="text-[#4a4a4a]">
-                    Our accounting and financial services help you identify
-                    areas for cost reduction and tax optimization.
+                    Nuestros servicios contables y financieros te ayudan a
+                    identificar áreas para reducción de costos y optimización
+                    tributaria.
                   </p>
                 </div>
               </div>
@@ -92,11 +94,12 @@ export default function Component() {
                 <ShieldCheckIcon className="h-8 w-8 text-[#0077b6]" />
                 <div>
                   <h3 className="text-xl font-bold text-[#0077b6]">
-                    Improved Security
+                    Mejora de la Seguridad
                   </h3>
                   <p className="text-[#4a4a4a]">
-                    Our IT support services ensure your systems are secure and
-                    compliant, protecting your data and your business.
+                    Nuestros servicios de soporte informático aseguran que tus
+                    sistemas estén seguros y cumplen con los estándares,
+                    protegiendo tus datos y tu negocio.
                   </p>
                 </div>
               </div>
@@ -104,11 +107,12 @@ export default function Component() {
                 <BarChartIcon className="h-8 w-8 text-[#0077b6]" />
                 <div>
                   <h3 className="text-xl font-bold text-[#0077b6]">
-                    Data-Driven Insights
+                    Información Basada en Datos
                   </h3>
                   <p className="text-[#4a4a4a]">
-                    Our analytics and reporting tools provide valuable insights
-                    to help you make informed business decisions.
+                    Nuestras herramientas de análisis e informes proporcionan
+                    información valiosa para ayudarte a tomar decisiones
+                    empresariales informadas.
                   </p>
                 </div>
               </div>
@@ -116,7 +120,6 @@ export default function Component() {
           </div>
         </div>
       </section>
-
       {/* <section className="w-full py-12 md:py-24 lg:py-32 bg-[#f0f4f8]">
         <div className="container px-4 md:px-6">
           <div className="grid gap-8 lg:grid-cols-2 lg:gap-12">
