@@ -17,13 +17,13 @@
 }
 
 body {
+  font-family: var(--font-libre_franklin), sans-serif;
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: #135aa1
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-libre_franklin), sans-serif;
 }
 
 @layer utilities {
